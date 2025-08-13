@@ -1,21 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nikunj Mehta 👋
 
-Welcome to my GitHub profile! I'm **Nikunj Mehta**, a passionate **Computer Science student** with a keen interest in **Web Development**, **AI**, and **Cloud Computing**.
+🚀 Final-year Computer Engineering student | MERN Stack Developer | Java (DSA) | Azure Certified (AZ-900)
 
-- 🔭 I’m currently working on **AI-based projects** and exploring the world of **Cloud Computing**.
-- 🌱 I’m currently learning more about **Web Development** frameworks, and **Cloud Technologies**.
-- 👯 I’m looking to collaborate on projects related to **Open Source**, **AI**, and **Web Development**.
-- 🤔 I’m looking for help with **advanced AI concepts** and **optimizing cloud-based applications**.
-- 💬 Ask me about **Java Programming**, **Data Structures & Algorithms**, and **Project Management**.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a **Football Enthusiast** and enjoy managing team dynamics as much as coding!
+💻 **Tech Stack:** Java | JavaScript | React | Node.js | Express | MongoDB | Azure  
+📈 **Current Focus:** Building scalable web apps & mastering DSA in Java  
+📂 **Portfolio:** [LinkedIn](https://www.linkedin.com/in/nikunj-mehta-016a2a2b0/) | [LeetCode](https://leetcode.com/u/mehtanikunj11/)
 
-- ### 🌟 GitHub Stats  
-![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikunj-Mehta&show_icons=true&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj-Mehta&layout=compact)
+---
 
-### 📌 Connect with me  
-- 💼 LinkedIn: [https://www.linkedin.com/in/nikunj-mehta-016a2a2b0/](https://www.linkedin.com/in/nikunj-mehta-016a2a2b0/)  
-- 📧 Email: [mehtanikunj11@gmail.com](mailto:mehtanikunj11@gmail.com)
+### 📌 Featured Projects
+1. **[Wanderlust](https://wanderlust-zbcf.onrender.com/)** – Full-stack lodging app (Node.js, MongoDB, Mapbox)
+2. **[Amazon Clone](https://nikunj-mehta.github.io/Amazon-Clone/)** – E-commerce frontend with cart functionality
+3. **[Hospital Management System](https://github.com/Nikunj-Mehta/DSA/tree/main/DSA_Learning/src/HospitalManagement)** – Java OOP application for hospital records
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me on LinkedIn!
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikunj-Mehta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj-Mehta&layout=compact&theme=radical)
