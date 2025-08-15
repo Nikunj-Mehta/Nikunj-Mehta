@@ -29,36 +29,6 @@ I am passionate about creating scalable, user-focused web applications and writi
 - **Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), REST APIs  
 - **Cloud & Tools:** Microsoft Azure (AZ-900), Git, GitHub  
 
----
-
-## 🔹 Pinned Projects
-
-### Wanderlust 🌍
-A full-stack MERN application for exploring and listing rental properties. Includes seamless booking experience, responsive design, and map integration.  
-[GitHub Link](https://github.com/Nikunj-Mehta/Wanderlust) | [Live Demo](https://wanderlust-zbcf.onrender.com/)
-
-### Amazon Clone 🛒
-Multi-page e-commerce front-end built with HTML, CSS, and JavaScript. Features home, cart, and tracking pages with responsive design and interactive elements.  
-[GitHub Link](https://github.com/Nikunj-Mehta/Amazon-Clone) | [Live Demo](https://nikunj-mehta.github.io/Amazon-Clone/)
-
-### YouTube Clone ▶️
-Front-end replica of the YouTube homepage using HTML and CSS. Practiced layout design, responsive grids, and Flexbox.  
-[GitHub Link](https://github.com/Nikunj-Mehta/YouTubeClone) | [Live Demo](https://nikunj-mehta.github.io/YouTubeClone/)
-
-### CODSOFT 💻
-Three solo Java projects developed during my internship at CodSoft, using **OOP and DSA concepts**. Includes ATM Interface, Guesser Game, and Student Grade Calculator.  
-[GitHub Link](https://github.com/Nikunj-Mehta/CODSOFT)
-
-### DSA 📚
-A curated collection of Java implementations for fundamental and advanced **Data Structures & Algorithms** concepts.  
-[GitHub Link](https://github.com/Nikunj-Mehta/DSA)
-
-### WebDev_ApnaCollege 🏫
-Hands-on projects and exercises from the Apna College Full-Stack Web Development course.  
-[GitHub Link](https://github.com/Nikunj-Mehta/WebDev_ApnaCollege)
-
----
-
 ## 🔹 Achievements
 - Contributor at **GirlScript Summer of Code 2025**  
 - Solved **100+ problems on LeetCode**  
@@ -76,9 +46,20 @@ Hands-on projects and exercises from the Apna College Full-Stack Web Development
 
 ## 🔹 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikunj-Mehta&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj-Mehta&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikunj-Mehta&theme=radical)
+<div align="center">
+  <!-- Stats Block -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikunj-Mehta&show_icons=true&theme=radical&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj-Mehta&layout=compact&theme=radical" height="150"/>
+</div>
+
+---
+
+<div align="center">
+  <!-- Streak & Snake Block -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunj-Mehta&theme=radical" height="150"/>
+  <br>
+  <img width="800px" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
