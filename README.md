@@ -37,13 +37,6 @@ I am passionate about creating scalable, user-focused web applications and writi
 
 ---
 
-## ⚡ Fun Facts
-- 🏆 Captain of College Football Team  
-- 🎮 Gamer & Resident Evil fan  
-- 💡 Always learning new frameworks and tech  
-
----
-
 ## 🔹 GitHub Stats
 
 <div align="center">
@@ -51,6 +44,13 @@ I am passionate about creating scalable, user-focused web applications and writi
   <img src="https://github-readme-stats.vercel.app/api?username=Nikunj-Mehta&show_icons=true&theme=radical&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikunj-Mehta&layout=compact&theme=radical" height="150"/>
 </div>
+
+---
+
+## ⚡ Fun Facts
+- 🏆 Captain of College Football Team  
+- 🎮 Gamer & Resident Evil fan  
+- 💡 Always learning new frameworks and tech  
 
 ---
 
