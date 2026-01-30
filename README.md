@@ -75,11 +75,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
-<div align="center">
-  <img width="650em" src="https://github-readme-stats.vercel.app/api?username=Nikunj-Mehta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img width="650em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nikunj-Mehta&theme=tokyonight&hide_border=true&border_radius=4.5&date_format=M%20j%5B%2C%20Y%5D" />
-  
+<div align="center">  
   <img width="650em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunj-Mehta&bg_color=1a1b27&color=91bfff&line=628fdb&point=8a87f0&area=true&hide_border=true&radius=4.5" />
   
   <img width="650em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikunj-Mehta&theme=tokyonight" />
